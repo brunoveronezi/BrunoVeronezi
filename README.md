@@ -1,7 +1,6 @@
 ### Oláaa!! Eu sou o Bruno Veronezi! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 Estudando C# .Net | HTML | CSS | JavaScript
 
 <div align="center">
   <a href="https://github.com/brunoveronezi">
