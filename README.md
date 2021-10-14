@@ -23,4 +23,5 @@
   <a href = "mailto:contatobrunov@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=Outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-veronezi-178a1b219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "https://facebook.com/bruno.veronezi.7/"><img src= "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+    <a href ="https://steamcommunity.com/id/bruvps/"><img src= "https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target= "_blank"> </a>
  </div>
