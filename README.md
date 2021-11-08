@@ -1,6 +1,6 @@
 ### Oláaa!! Eu sou o Bruno Veronezi! 
 
-Atualmente estagiário em desenvolvimento C# .Net | Tecnofit
+Atualmente sou estagiário em desenvolvimento C# .Net | Tecnofit
 
 <div align="center">
   <a href="https://github.com/brunoveronezi">
